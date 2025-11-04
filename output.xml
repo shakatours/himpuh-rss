@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>Himpuh Blog Feed</title>
+    <link>https://himpuh.or.id/blog</link>
+    <description>A feed of Himpuh blog posts</description>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>python-feedgen</generator>
+    <lastBuildDate>Tue, 04 Nov 2025 03:16:03 +0000</lastBuildDate>
+    <item>
+      <title>Bertemu Dubes Saudi, Menhaj Bahas Penguatan Istithaah Kesehatan Haji 2026</title>
+      <link>https://himpuh.or.id/blog/detail/3375/bertemu-dubes-saudi-menhaj-bahas-penguatan-istithaah-kesehatan-haji-2026</link>
+      <description>Menteri Haji dan Umrah RI, Mochamad Irfan Yusuf, bertemu dengan Duta Besar Arab Saudi untuk Indonesia, Faisal Bin Abdullah Amodi, di Kedutaan Besar Arab Saudi, Jakarta, Senin (4/11/2025). Pertemuan ini membahas berbagai persiapan penyelenggaraan ibadah haji 2026, khususnya terkait istithaah kesehatan jamaah.</description>
+      <enclosure url="https://cdn.himpuh.or.id/1762219698_4Y4AJPuSQnzQvbsMC1tFcGdKwlulvsoF4HNARBtw.webp" length="0" type="image/webp"/>
+      <pubDate>Tue, 04 Nov 2025 07:00:28 +0700</pubDate>
+    </item>
+    <item>
+      <title>Murah Belum Tentu Efisien, Wakil Rektor II Untag Ingatkan Risiko Dibalik Praktik Umrah Mandiri</title>
+      <link>https://himpuh.or.id/blog/detail/3374/murah-belum-tentu-efisien-wakil-rektor-ii-untag-ingatkan-risiko-dibalik-praktik-umrah-mandiri</link>
+      <description>Kebijakan pemerintah lewat UU Penyelenggaraan Ibadah Haji dan Umrah (UU PIHU) Nomor 14 Tahun 2025 membuka jalan bagi masyarakat untuk melaksanakan umrah secara mandiri. Tapi, di balik janji hemat dan fleksibel, pakar menilai umrah mandiri menyimpan risiko yang tak sedikit, bahkan bisa merugikan calon jamaah.</description>
+      <enclosure url="https://cdn.himpuh.or.id/1762218929_IXOXS7hLPQSrgdRyqv7MnfnOtUoCUH9OaesHZN7J.webp" length="0" type="image/webp"/>
+      <pubDate>Tue, 04 Nov 2025 08:10:13 +0700</pubDate>
+    </item>
+    <item>
+      <title>Drs. Sahlan Toro Luncurkan Buku “MICE: Strategi dan Penerapan”, Hadirkan Gagasan Strategis Masa Depan Pariwisata Indonesia</title>
+      <link>https://himpuh.or.id/blog/detail/3373/drs-sahlan-toro-luncurkan-buku-mice-strategi-dan-penerapan-hadirkan-gagasan-strategis-masa-depan-pariwisata-indonesia</link>
+      <description>Dunia pariwisata Indonesia kembali bergeliat dengan hadirnya karya intelektual baru. Seorang pakar dan praktisi senior bidang pariwisata dan event organizing, Drs. Sahlan Toro, M.Si, MT, CHU, meluncurkan buku terbarunya berjudul “MICE: Strategi dan Penerapan”. Peluncuran buku berlangsung di Kampus Politeknik Sahid, Jakarta, dan dihadiri oleh sivitas akademika, pelaku industri, serta sejumlah pegiat pariwisata.</description>
+      <enclosure url="https://cdn.himpuh.or.id/1762217365_o95mU9N1H81ESqoRsVumfIJeqt41bA134gtFvfd3.webp" length="0" type="image/webp"/>
+      <pubDate>Tue, 04 Nov 2025 09:00:13 +0700</pubDate>
+    </item>
+    <item>
+      <title>Daftar Lengkap 10 Negara dengan Kuota Haji Terbanyak Dunia 2025, Indonesia Urutan teratas</title>
+      <link>https://himpuh.or.id/blog/detail/3376/daftar-lengkap-10-negara-dengan-kuota-haji-terbanyak-dunia-2025-indonesia-urutan-teratas</link>
+      <description>Setiap tahun jutaan umat Islam menanti kesempatan menunaikan ibadah haji. Untuk mengatur jumlah jamaah dari seluruh dunia, pemerintah Arab Saudi menetapkan sistem kuota haji internasional berdasarkan populasi muslim, faktor diplomatik, dan logistik.</description>
+      <enclosure url="https://cdn.himpuh.or.id/1762219971_jNahb0S6IolUXnNLeiLQbaYwsuLupFoWvClQNkLs.webp" length="0" type="image/webp"/>
+      <pubDate>Tue, 04 Nov 2025 10:00:53 +0700</pubDate>
+    </item>
+  </channel>
+</rss>
