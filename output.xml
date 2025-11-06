@@ -6,14 +6,7 @@
     <description>A feed of Himpuh blog posts</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 06 Nov 2025 06:35:46 +0000</lastBuildDate>
-    <item>
-      <title>Kemenhaj Siapkan Lebih Banyak Pembimbing Jemaah Perempuan Pada Haji 2026</title>
-      <link>https://himpuh.or.id/blog/detail/3386/kemenhaj-siapkan-lebih-banyak-pembimbing-jemaah-perempuan-pada-haji-2026</link>
-      <description>Pemerintah bersiap menambah jumlah pembimbing ibadah haji perempuan pada musim haji 2026. Langkah ini diambil untuk memperkuat layanan dan pendampingan bagi jamaah wanita selama berada di tanah suci.</description>
-      <enclosure url="https://cdn.himpuh.or.id/1762401917_D1wRy54NT51SrPkjVRXr8GopIYJXN3q8gPE0PV4U.webp" length="0" type="image/webp"/>
-      <pubDate>Thu, 06 Nov 2025 09:00:10 +0700</pubDate>
-    </item>
+    <lastBuildDate>Thu, 06 Nov 2025 12:50:06 +0000</lastBuildDate>
     <item>
       <title>Arab Saudi Umumkan Rencana Operasional Haji 1447H/2026H, Semua Layanan Serba Digital</title>
       <link>https://himpuh.or.id/blog/detail/3387/arab-saudi-umumkan-rencana-operasional-haji-1447h2026h-semua-layanan-serba-digital</link>
@@ -34,6 +27,13 @@
       <description>Industri penerbangan di kawasan Timur Tengah tengah bersiap menghadapi krisis besar kekurangan pilot seiring ekspansi armada besar-besaran selama satu dekade ke depan.</description>
       <enclosure url="https://cdn.himpuh.or.id/1762403872_gZkU76sXsWoLUwY4TzWR0f2DsYKgAszJdKwVxXs1.webp" length="0" type="image/webp"/>
       <pubDate>Thu, 06 Nov 2025 11:36:35 +0700</pubDate>
+    </item>
+    <item>
+      <title>Hilton Luncurkan Dua Hotel Baru di Makkah, Ikut Berpacu dengan Visi Saudi 2030</title>
+      <link>https://himpuh.or.id/blog/detail/3390/hilton-luncurkan-dua-hotel-baru-di-makkah-ikut-berpacu-dengan-visi-saudi-2030</link>
+      <description>Hilton mengumumkan kerja sama strategis dengan Wirgan Hospitality untuk meluncurkan dua hotel baru di Kota Makkah melalui proses rebranding dua properti eksisting.</description>
+      <enclosure url="https://cdn.himpuh.or.id/1762416655_GcU9iLizZPKPhvaSlJq9m5n0mSE21QsSVZo0ybiq.webp" length="0" type="image/webp"/>
+      <pubDate>Thu, 06 Nov 2025 15:02:36 +0700</pubDate>
     </item>
   </channel>
 </rss>
