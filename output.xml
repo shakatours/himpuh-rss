@@ -6,13 +6,14 @@
     <description>A feed of Himpuh blog posts</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 29 Dec 2025 12:54:39 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 29 Dec 2025 18:36:13 +0000</lastBuildDate>
     <item>
-      <title>Saudi Hadirkan Layanan Tahallul Gratis di Pelataran Masjidil Haram</title>
-      <link>https://himpuh.or.id/blog/detail/3662/saudi-hadirkan-layanan-tahallul-gratis-di-pelataran-masjidil-haram</link>
-      <description>Upaya meningkatkan kenyamanan ibadah jemaah terus dilakukan pengelola Dua Masjid Suci. Terbaru, Masjidil Haram menghadirkan layanan tahallul gratis yang dapat dimanfaatkan jemaah laki-laki maupun perempuan langsung di area pelataran masjid.</description>
-      <enclosure url="https://a7f43fdc1eb33fc73.storage.googleapis.com/1766982802_RcgUIjWDOwoH7kkSeV63SrBU1SMTKcgemYkILnjI.webp" length="0" type="image/webp"/>
-      <pubDate>Mon, 29 Dec 2025 10:00:38 +0700</pubDate>
+      <title>Apa yang Akan Terjadi di MUKER 2026 Mendatang?</title>
+      <link>https://himpuh.or.id/blog/detail/3640/apa-yang-akan-terjadi-di-muker-2026-mendatang</link>
+      <description>📋 PREVIEW KEGIATAN MUKER 2026&#13;
+Musyawarah Kerja HIMPUH tahun ini hadir dengan format yang lebih substantif dan aplikatif untuk menjawab tantangan n</description>
+      <enclosure url="https://a7f43fdc1eb33fc73.storage.googleapis.com/1766460784_5vTlIqeL3AWFtS3SJwaF56i5W6tmie33MOONK7is.webp" length="0" type="image/webp"/>
+      <pubDate>Mon, 29 Dec 2025 10:28:07 +0700</pubDate>
     </item>
     <item>
       <title>Persiapan Haji Dimulai Lebih Dini, Saudi Catat Kontrak Layanan Masya’ir Sudah Capai 77%</title>
@@ -39,6 +40,7 @@ Perihal&#13;
 11 Aug 2025&#13;
 SE Dirjen PHU Kemenag RI&#13;
 B-11005/DJ/Dt.II.IV.2/</description>
+      <enclosure url="https://a7f43fdc1eb33fc73.storage.googleapis.com/1767015626_osVSECWp1c3ttDiJusxhtzWqL026Vzhzx2NFYtm5.webp" length="0" type="image/webp"/>
       <pubDate>Thu, 31 Dec 2026 23:59:35 +0700</pubDate>
     </item>
     <item>
@@ -47,6 +49,7 @@ B-11005/DJ/Dt.II.IV.2/</description>
       <description>Regulasi Haji&#13;
 Tata Cara Pelunasan Haji Khusus&#13;
 Berita Haji</description>
+      <enclosure url="https://a7f43fdc1eb33fc73.storage.googleapis.com/1767015689_JGUWLDpsyeJKJL6lsKkYcrGVE7R9xStNx3V6bzsG.webp" length="0" type="image/webp"/>
       <pubDate>Thu, 31 Dec 2026 23:59:59 +0700</pubDate>
     </item>
   </channel>
