@@ -6,14 +6,7 @@
     <description>A feed of Himpuh blog posts</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 23 May 2026 19:17:03 +0000</lastBuildDate>
-    <item>
-      <title>BI Larang Perusahaan Travel Pasarkan Produk Haji Umrah dengan Mata Uang Asing</title>
-      <link>https://himpuh.or.id/blog/detail/4371/bi-larang-perusahaan-travel-pasarkan-produk-haji-umrah-dengan-mata-uang-asing</link>
-      <description>Bank Indonesia menegaskan perusahaan travel umrah dan haji di Indonesia tidak diperkenankan mencantumkan harga paket layanan dalam mata uang asing, termasuk dolar Amerika Serikat pada brosur, flyer, katalog, maupun media promosi lainnya.</description>
-      <enclosure url="https://a7f43fdc1eb33fc73.nos.wjv-1.neo.id/1779448060_bXDJx3CwOwXwFnYRCD0kpYfvNGKjjOYGlEsBmmdV.webp" length="0" type="image/webp"/>
-      <pubDate>Fri, 22 May 2026 17:07:29 +0700</pubDate>
-    </item>
+    <lastBuildDate>Sun, 24 May 2026 04:02:44 +0000</lastBuildDate>
     <item>
       <title>Tak Semua Jamaah Pulang Bersamaan dari Mina, Ini Bedanya Nafar Awal dan Nafar Tsani</title>
       <link>https://himpuh.or.id/blog/detail/4372/tak-semua-jamaah-pulang-bersamaan-dari-mina-ini-bedanya-nafar-awal-dan-nafar-tsani</link>
@@ -34,6 +27,13 @@
       <description>Kementerian Haji dan Umrah memastikan seluruh fase keberangkatan jemaah haji Indonesia dari Tanah Air telah selesai dilaksanakan.</description>
       <enclosure url="https://a7f43fdc1eb33fc73.nos.wjv-1.neo.id/1779558065_bdR9MmbzVx0qSUUlUo4typky1i4OlfkVs1pegUIT.webp" length="0" type="image/webp"/>
       <pubDate>Sun, 24 May 2026 00:29:58 +0700</pubDate>
+    </item>
+    <item>
+      <title>Saudi Mulai Berlakukan Lockdown Kendaraan ke Makkah bagi yang Tak Kantongi Izin Haji</title>
+      <link>https://himpuh.or.id/blog/detail/4375/saudi-mulai-berlakukan-lockdown-kendaraan-ke-makkah-bagi-yang-tak-kantongi-izin-haji</link>
+      <description>Kebijakan ini diterapkan untuk memastikan kelancaran arus lalu lintas dan pergerakan jutaan jemaah selama musim haji berlangsung.</description>
+      <enclosure url="https://a7f43fdc1eb33fc73.nos.wjv-1.neo.id/1779572487_jtdZqR4VOuOd7tj6UCgeYQnmlYsCVWP5ujMTaIS6.webp" length="0" type="image/webp"/>
+      <pubDate>Sun, 24 May 2026 04:33:21 +0700</pubDate>
     </item>
   </channel>
 </rss>
