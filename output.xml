@@ -6,14 +6,7 @@
     <description>A feed of Himpuh blog posts</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 20 Jun 2026 14:12:15 +0000</lastBuildDate>
-    <item>
-      <title>Kisah Haru Tukang Bakso Asal Bone, Berangkat Haji dengan Kursi Roda Pulang dengan Langkah Kaki</title>
-      <link>https://himpuh.or.id/blog/detail/4510/kisah-haru-tukang-bakso-asal-bone-berangkat-haji-dengan-kursi-roda-pulang-dengan-langkah-kaki</link>
-      <description>Di antara jutaan tamu Allah yang menunaikan ibadah haji setiap tahun, selalu ada kisah-kisah yang meninggalkan jejak haru dan pelajaran tentang kekuasaan-Nya. Salah satunya datang dari Supanto, seorang penjual bakso berusia 73 tahun asal Kabupaten Bone, Sulawesi Selatan.</description>
-      <enclosure url="https://a7f43fdc1eb33fc73.nos.wjv-1.neo.id/1781831647_coII6ZMi4sJQgS8Jkm0BLhwe9lu32T7TNPnemhAk.webp" length="0" type="image/webp"/>
-      <pubDate>Fri, 19 Jun 2026 11:00:58 +0700</pubDate>
-    </item>
+    <lastBuildDate>Sat, 20 Jun 2026 19:42:37 +0000</lastBuildDate>
     <item>
       <title>Mulai 1 Juli 2026, Seluruh Penerbangan Haji dan Umrah Wajib Lewat Terminal 2F Soekarno-Hatta</title>
       <link>https://himpuh.or.id/blog/detail/4511/mulai-1-juli-2026-seluruh-penerbangan-haji-dan-umrah-wajib-lewat-terminal-2f-soekarno-hatta</link>
@@ -34,6 +27,13 @@
       <description>Menteri Haji dan Umrah Republik Indonesia (Menhaj RI), Mochamad Irfan Yusuf, memberi sinyal kuat bahwa biaya penyelenggaraan ibadah haji reguler tahun 1448 H/2027 M berpotensi mengalami kenaikan.</description>
       <enclosure url="https://a7f43fdc1eb33fc73.nos.wjv-1.neo.id/1781911118_zdksRVRhgSyIMGxWHuXPFuAZUmxUbB5cOkZ8x4cS.webp" length="0" type="image/webp"/>
       <pubDate>Sat, 20 Jun 2026 06:13:01 +0700</pubDate>
+    </item>
+    <item>
+      <title>Belajar dari Kasus Hanania, Sistem Escrow Account Dinilai Mampu Lindungi Hak Jemaah Umrah</title>
+      <link>https://himpuh.or.id/blog/detail/4514/belajar-dari-kasus-hanania-sistem-escrow-account-dinilai-mampu-lindungi-hak-jemaah-umrah</link>
+      <description>Kasus gagal berangkat yang dialami ribuan jamaah Hanania Travel mendorong munculnya berbagai usulan pembenahan tata kelola penyelenggaraan umrah di Indonesia.</description>
+      <enclosure url="https://a7f43fdc1eb33fc73.nos.wjv-1.neo.id/1781980902_29sX3Ghb1cKUUaEeV5d04SA2ZMIo3rBl2nUFD8X1.webp" length="0" type="image/webp"/>
+      <pubDate>Sun, 21 Jun 2026 01:34:23 +0700</pubDate>
     </item>
   </channel>
 </rss>
