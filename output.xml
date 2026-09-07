@@ -6,14 +6,7 @@
     <description>A feed of Himpuh blog posts</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 07 Sep 2026 12:00:32 +0000</lastBuildDate>
-    <item>
-      <title>HIMPUH: Keselamatan dan Perlindungan Jemaah Harus Jadi Prioritas</title>
-      <link>https://himpuh.or.id/blog/detail/4850/himpuh-keselamatan-dan-perlindungan-jemaah-harus-jadi-prioritas</link>
-      <description>HIMPUH memahami bahwa penutupan bandara maupun pembatalan penerbangan merupakan keputusan yang harus diambil berdasarkan pertimbangan keselamatan penerbangan.</description>
-      <enclosure url="https://a7f43fdc1eb33fc73.nos.wjv-1.neo.id/1788774801_tjzoq1LsHoUsokrFZbm8mDSa1EVTt9FmXwGN7mSN.webp" length="0" type="image/webp"/>
-      <pubDate>Mon, 07 Sep 2026 16:47:15 +0700</pubDate>
-    </item>
+    <lastBuildDate>Mon, 07 Sep 2026 21:20:02 +0000</lastBuildDate>
     <item>
       <title>Sebelum Situasi Aman, Kemenhaj Minta PPIU Tak Paksakan Keberangkatan Jemaah Umrah</title>
       <link>https://himpuh.or.id/blog/detail/4851/sebelum-situasi-aman-kemenhaj-minta-ppiu-tak-paksakan-keberangkatan-jemaah-umrah</link>
@@ -34,6 +27,13 @@
       <description>Penutupan Bandara Internasional Soekarno-Hatta (Soetta) kembali diperpanjang hingg Senin (7/9/2026) pukul 23.59 WIB.</description>
       <enclosure url="https://a7f43fdc1eb33fc73.nos.wjv-1.neo.id/1788779928_jUyJpz3Fay0kfJWk03F6rdsvdHWUS9dKstSSAQJL.webp" length="0" type="image/webp"/>
       <pubDate>Mon, 07 Sep 2026 18:14:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>Kabar Gembira! Garuda Indonesia Umumkan Penerbangan Perdana Pasca Penutupan Bandara Soetta</title>
+      <link>https://himpuh.or.id/blog/detail/4854/kabar-gembira-garuda-indonesia-umumkan-penerbangan-perdana-pasca-penutupan-bandara-soetta-</link>
+      <description>Maskapai Garuda Indonesia mengumumkan akan memulai kembali layanan penerbangan dari dan ke Bandara Soekarno-Hatta (Soetta) pada Selasa, 8 September 2026 pukul 00.01 WIB</description>
+      <enclosure url="https://a7f43fdc1eb33fc73.nos.wjv-1.neo.id/1788790722_FAZpycsbDgwt8UNraX6Vq8R4WjD7PY4NeJCr33fs.webp" length="0" type="image/webp"/>
+      <pubDate>Mon, 07 Sep 2026 21:09:01 +0700</pubDate>
     </item>
   </channel>
 </rss>
