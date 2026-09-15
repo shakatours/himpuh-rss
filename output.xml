@@ -6,14 +6,7 @@
     <description>A feed of Himpuh blog posts</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 15 Sep 2026 11:24:31 +0000</lastBuildDate>
-    <item>
-      <title>Kemenhaj Temukan 400 Ribu Data Antrean Haji Invalid, Masa Tunggu Bisa Jadi 14–15 Tahun</title>
-      <link>https://himpuh.or.id/blog/detail/4885/kemenhaj-temukan-400-ribu-data-antrean-haji-invalid-masa-tunggu-bisa-jadi-1415-tahun</link>
-      <description>Sekitar 400 ribu data invalid ditemukan dalam proses pemutakhiran terhadap 5,7 juta data antrean calon jemaah haji. Temuan tersebut berpotensi mengurangi jumlah antrean sekaligus membuat masa tunggu haji secara faktual lebih pendek dari catatan administratif saat ini.</description>
-      <enclosure url="https://a7f43fdc1eb33fc73.nos.wjv-1.neo.id/1789430684_oePZ2xUetSsRKcrmkH1ipj7odyJX7YRuJtC84i2h.webp" length="0" type="image/webp"/>
-      <pubDate>Tue, 15 Sep 2026 07:02:58 +0700</pubDate>
-    </item>
+    <lastBuildDate>Tue, 15 Sep 2026 16:36:47 +0000</lastBuildDate>
     <item>
       <title>Konferensi Haji ke-6 Digelar November, Jadi Panggung Persiapan Haji 1448 H</title>
       <link>https://himpuh.or.id/blog/detail/4887/konferensi-haji-ke-6-digelar-november-jadi-panggung-persiapan-haji-1448-h</link>
@@ -36,6 +29,13 @@ Museum ini memadukan arsitektur Islam, lanskap alami Jabal Hira, serta teknologi
 Koleksinya mencakup manuskrip langka, mushaf bersejarah, artefak, hingga replika media penulisan Al-Qur’an pada masa Nabi Muhammad SAW.</description>
       <enclosure url="https://a7f43fdc1eb33fc73.nos.wjv-1.neo.id/1789436194_GbtV1kgXGVda1DgBivhTxz57bhyS3lrIspLau1oq.webp" length="0" type="image/webp"/>
       <pubDate>Tue, 15 Sep 2026 09:35:18 +0700</pubDate>
+    </item>
+    <item>
+      <title>Ada Peringatan Ancaman Serangan di Saudi, HIMPUH Minta Jemaah Umrah Tenang dan Patuhi Arahan</title>
+      <link>https://himpuh.or.id/blog/detail/4889/ada-peringatan-ancaman-serangan-di-saudi-himpuh-minta-jemaah-umrah-tenang-dan-patuhi-arahan</link>
+      <description>Pemerintah Arab Saudi melalui Direktorat Jenderal Pertahanan Sipil (Civil Defense) mengirimkan pesan peringatan bahaya ke ponsel masyarakat yang berada di sejumlah wilayah Kerajaan, menyusul meningkatnya ancaman serangan dari kelompok Houthi di Yaman.</description>
+      <enclosure url="https://a7f43fdc1eb33fc73.nos.wjv-1.neo.id/1789484579_RsWZfsxtDdU5bQjOKTZFgDpXDsOmJBgbQPDh1JOY.webp" length="0" type="image/webp"/>
+      <pubDate>Tue, 15 Sep 2026 21:44:04 +0700</pubDate>
     </item>
   </channel>
 </rss>
