@@ -6,16 +6,7 @@
     <description>A feed of Himpuh blog posts</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 18 Sep 2026 03:58:25 +0000</lastBuildDate>
-    <item>
-      <title>Komnas Soroti Usulan Subsidi BPIH 60 Persen, Dana Haji Dinilai Berisiko Defisit</title>
-      <link>https://himpuh.or.id/blog/detail/4904/komnas-soroti-usulan-subsidi-bpih-60-persen-dana-haji-dinilai-berisiko-defisit</link>
-      <description>Usulan BPIH 2027 menempatkan 60 persen biaya penyelenggaraan haji pada nilai manfaat dana haji yang dikelola BPKH.&#13;
-Komnas Haji dan Umrah menilai skema tersebut perlu dihitung ulang agar tidak mengganggu keberlanjutan keuangan haji.&#13;
-Pertimbangannya bukan hanya jemaah yang berangkat pada 2027, tetapi juga sekitar 5,5 juta jemaah yang masih berada dalam daftar tunggu.</description>
-      <enclosure url="https://a7f43fdc1eb33fc73.nos.wjv-1.neo.id/1789689820_mssOmBDFH3zjLLdL2rftAITwNeKrrgiKJAIs1AXv.webp" length="0" type="image/webp"/>
-      <pubDate>Fri, 18 Sep 2026 06:30:35 +0700</pubDate>
-    </item>
+    <lastBuildDate>Fri, 18 Sep 2026 10:51:55 +0000</lastBuildDate>
     <item>
       <title>Penetapan BPIH 2027 Jangan Sekadar Mengejar Kebijakan Populis</title>
       <link>https://himpuh.or.id/blog/detail/4905/penetapan-bpih-2027-jangan-sekadar-mengejar-kebijakan-populis</link>
@@ -42,6 +33,13 @@ Sebanyak 18.165 jemaah Indonesia dijadwalkan berangkat pada 21–29 September 20
 Kemenhaj meminta jemaah tetap berkoordinasi dengan PPIU serta tidak mengambil keputusan berdasarkan informasi yang belum terverifikasi.</description>
       <enclosure url="https://a7f43fdc1eb33fc73.nos.wjv-1.neo.id/1789690477_oHSIzYwEKs0L7KQKJTGh7skxr5ldYxp0k8CU8IV9.webp" length="0" type="image/webp"/>
       <pubDate>Fri, 18 Sep 2026 09:00:07 +0700</pubDate>
+    </item>
+    <item>
+      <title>HIMPUH Audiensi dengan Kemenpar RI, Bahas Upaya Dongkrak Wisatawan Arab Saudi ke Indonesia</title>
+      <link>https://himpuh.or.id/blog/detail/4908/himpuh-audiensi-dengan-kemenpar-ri-bahas-upaya-dongkrak-wisatawan-arab-saudi-ke-indonesia</link>
+      <description>Himpunan Penyelenggara Umrah dan Haji (HIMPUH) melakukan audiensi dengan Kementerian Pariwisata Republik Indonesia untuk membahas upaya meningkatkan kunjungan wisatawan Arab Saudi ke Indonesia.</description>
+      <enclosure url="https://a7f43fdc1eb33fc73.nos.wjv-1.neo.id/1789724631_p8RmLGUdyl47eNbfPwQoeT3dG4FudBSh5E9cwUVX.webp" length="0" type="image/webp"/>
+      <pubDate>Fri, 18 Sep 2026 16:36:12 +0700</pubDate>
     </item>
   </channel>
 </rss>
