@@ -6,14 +6,7 @@
     <description>A feed of Himpuh blog posts</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 23 Sep 2026 04:03:54 +0000</lastBuildDate>
-    <item>
-      <title>Mengapa Penipuan Umrah Masih Berulang?</title>
-      <link>https://himpuh.or.id/blog/detail/4919/mengapa-penipuan-umrah-masih-berulang</link>
-      <description>Seorang jamaah datang ke kantor perjalanan umrah dengan membawa tabungan bertahun-tahun. Ia memilih tanggal, membayar biaya, lalu menerima janji keberangkatan. Yang ia serahkan sesungguhnya lebih besar daripada sekadar uang: di situ ada harapan untuk beribadah, ada waktu yang telah disiapkan, dan ada kepercayaan bahwa seseorang akan mengantarnya sampai ke Tanah Suci.</description>
-      <enclosure url="https://a7f43fdc1eb33fc73.nos.wjv-1.neo.id/1790133889_BY04jNeirAQS9Dff2Kr45O3T6MkqqBRBwKsz3PrS.webp" length="0" type="image/webp"/>
-      <pubDate>Wed, 23 Sep 2026 10:00:15 +0700</pubDate>
-    </item>
+    <lastBuildDate>Wed, 23 Sep 2026 11:06:53 +0000</lastBuildDate>
     <item>
       <title>Perlindungan Jamaah Dimulai Sebelum Koper Ditutup</title>
       <link>https://himpuh.or.id/blog/detail/4920/perlindungan-jamaahdimulai-sebelumkoper-ditutup</link>
@@ -36,6 +29,13 @@ Langkah ini diarahkan untuk meningkatkan kualitas layanan dan memperkaya pengala
       <description>Makkah mendadak masuk dalam peringatan bahaya. Selasa petang, 15 September 2026, pertahanan udara Arab Saudi mencegat menghancurkan sebuah drone di sebelah selatan kota suci itu. Peringatan keamanan sempat diaktifkan di Makkah, Jeddah, dan Thaif, lalu dicabut beberapa menit kemudian.</description>
       <enclosure url="https://a7f43fdc1eb33fc73.nos.wjv-1.neo.id/1790134616_3PjnAsJvhDZMzgOKWoHpFcHyKRuO47MR6vqRiRpy.webp" length="0" type="image/webp"/>
       <pubDate>Wed, 23 Sep 2026 11:00:28 +0700</pubDate>
+    </item>
+    <item>
+      <title>HIMPUH Audiensi dengan BPKN RI, Bahas Perlindungan Konsumen dalam Ekosistem Haji dan Umrah</title>
+      <link>https://himpuh.or.id/blog/detail/4924/himpuh-audiensi-dengan-bpkn-ri-bahas-perlindungan-konsumen-dalam-ekosistem-haji-dan-umrah</link>
+      <description>Himpunan Penyelenggara Umrah dan Haji (HIMPUH) melakukan audiensi dengan Badan Perlindungan Konsumen Nasional (BPKN) RI di Kantor BPKN, Jakarta, Selasa (22/9/2026). Pertemuan tersebut membahas penguatan perlindungan konsumen dalam penyelenggaraan perjalanan haji dan umrah.</description>
+      <enclosure url="https://a7f43fdc1eb33fc73.nos.wjv-1.neo.id/1790146640_cqpZvdIStl3Ps9eanwZiNPrg41cVWqL3R0qqnKZY.webp" length="0" type="image/webp"/>
+      <pubDate>Wed, 23 Sep 2026 13:47:10 +0700</pubDate>
     </item>
   </channel>
 </rss>
