@@ -6,16 +6,7 @@
     <description>A feed of Himpuh blog posts</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 02 Oct 2026 04:53:10 +0000</lastBuildDate>
-    <item>
-      <title>Kenapa Pesawat Tak Boleh Terbang di Atas Ka'bah dan Masjid Nabawi? Ini Alasannya</title>
-      <link>https://himpuh.or.id/blog/detail/4970/kenapa-pesawat-tak-boleh-terbang-di-atas-kabah-dan-masjid-nabawi-ini-alasannya</link>
-      <description>Masjidil Haram di Makkah dan Masjid Nabawi di Madinah memiliki pembatasan penerbangan yang ketat di ruang udara sekitarnya.&#13;
-Kebijakan tersebut ditujukan untuk menjaga ketenangan, keamanan, dan kesakralan dua situs paling suci dalam Islam.&#13;
-Pesawat yang melintas tanpa izin di wilayah udara terbatas dapat dikenai sanksi sesuai aturan penerbangan yang berlaku.</description>
-      <enclosure url="https://a7f43fdc1eb33fc73.nos.wjv-1.neo.id/1790911310_mFHrWSQmVQ4QgpyOc0ExMEliZnqRBh6wvYenh1Gf.webp" length="0" type="image/webp"/>
-      <pubDate>Fri, 02 Oct 2026 08:00:02 +0700</pubDate>
-    </item>
+    <lastBuildDate>Fri, 02 Oct 2026 12:10:04 +0000</lastBuildDate>
     <item>
       <title>5 Mihrab Bersejarah di Masjid Nabawi yang Menyimpan Jejak Panjang Peradaban Islam</title>
       <link>https://himpuh.or.id/blog/detail/4971/5-mihrab-bersejarah-di-masjid-nabawi-yang-menyimpan-jejak-panjang-peradaban-islam</link>
@@ -40,6 +31,13 @@ Ia menekankan bahwa pemeriksaan harus diikuti perbaikan pengendalian, manajemen 
 Irham juga mengingatkan rasionalisasi BPIH tidak boleh dilakukan dengan mengorbankan hak jamaah haji tunggu atas Nilai Manfaat Virtual Account.</description>
       <enclosure url="https://a7f43fdc1eb33fc73.nos.wjv-1.neo.id/1790911965_1RhIvoOMt9J89X2CNEsAZcaBFcoYRcbamA4xPJQ1.webp" length="0" type="image/webp"/>
       <pubDate>Fri, 02 Oct 2026 10:30:07 +0700</pubDate>
+    </item>
+    <item>
+      <title>Wahid Hasyim dan Sebuah Babak Baru dalam Sejarah Haji Indonesia</title>
+      <link>https://himpuh.or.id/blog/detail/4974/wahid-hasyim-dan-sebuah-babak-baru-dalam-sejarah-haji-indonesia</link>
+      <description>Pagi itu, Pelabuhan Tanjung Priok bukan sekadar menjadi tempat keberangkatan sebuah kapal. Pada musim haji 1950, pelabuhan tersebut menjadi saksi dimulainya kembali perjalanan besar jemaah Indonesia menuju Tanah Suci setelah bertahun-tahun perjalanan haji terhenti oleh perang, revolusi, dan persoalan transportasi.</description>
+      <enclosure url="https://a7f43fdc1eb33fc73.nos.wjv-1.neo.id/1790942550_un7xRpzvDPwMy8YqfCMGHYUFvg0IHPZCyNHPQBVV.webp" length="0" type="image/webp"/>
+      <pubDate>Fri, 02 Oct 2026 18:56:43 +0700</pubDate>
     </item>
   </channel>
 </rss>
