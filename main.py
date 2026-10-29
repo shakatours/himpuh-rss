@@ -2,19 +2,17 @@ from bs4 import BeautifulSoup
 from feedgen.feed import FeedGenerator
 import requests
 from datetime import datetime, timezone, timedelta
+from urllib.parse import urljoin
 import re
 
-# Parse the website
+BASE_URL = "https://himpuh.or.id"
 url = "https://himpuh.or.id/blog/kategori/2/berita"
 response = requests.get(url)
 soup = BeautifulSoup(response.text, 'html.parser')
 
-# Find all article containers (assuming articles are in a common parent structure)
-# We'll group by finding all judul divs and their associated content
-judul_divs = soup.find_all('div', class_='judul')
+kartu_elems = soup.find_all('article', class_='kartu')
 articles = []
 
-# Indonesian month names mapping
 month_map = {
     'januari': 'January', 'februari': 'February', 'maret': 'March',
     'april': 'April', 'mei': 'May', 'juni': 'June',
@@ -22,78 +20,71 @@ month_map = {
     'oktober': 'October', 'november': 'November', 'desember': 'December'
 }
 
-# Extract articles with date/time
-for i, judul_div in enumerate(judul_divs):
-    # Get title and link
-    title_link = judul_div.find('a')
+DATE_RE = re.compile(
+    r'Ditulis pada\s*:\s*(\d{1,2})\s+(\w+)\s+(\d{4}),\s*(\d{1,2}):(\d{2}):(\d{2})',
+    re.IGNORECASE,
+)
+
+
+def absolute_url(href):
+    if not href:
+        return None
+    return urljoin(BASE_URL, href)
+
+
+def parse_published_date(text):
+    if not text:
+        return None
+    match = DATE_RE.search(text)
+    if not match:
+        return None
+    day, month_id, year, hour, minute, second = match.groups()
+    month_en = month_map.get(month_id.lower(), month_id)
+    try:
+        published_date = datetime.strptime(
+            f"{day} {month_en} {year} {hour}:{minute}:{second}",
+            "%d %B %Y %H:%M:%S",
+        )
+        jakarta_tz = timezone(timedelta(hours=7))
+        return published_date.replace(tzinfo=jakarta_tz)
+    except ValueError:
+        return None
+
+
+def enclosure_type(image_url):
+    lowered = image_url.lower()
+    if '.webp' in lowered:
+        return 'image/webp'
+    if '.png' in lowered:
+        return 'image/png'
+    if '.gif' in lowered:
+        return 'image/gif'
+    return 'image/jpeg'
+
+
+for kartu in kartu_elems:
+    title_link = kartu.select_one('h2.kartu__judul a') or kartu.find('a')
     if not title_link:
         continue
-    
-    title = title_link.text.strip()
-    article_link = title_link.get('href', url)
-    # Make sure link is absolute
-    if article_link.startswith('/'):
-        article_link = 'https://himpuh.or.id' + article_link
-    
-    # Find the content (intro) - it should be in the same parent container or nearby
-    # Try to find it relative to the judul div
-    parent = judul_div.parent
-    content_elem = parent.find('div', class_='intro mb5') if parent else None
-    if not content_elem:
-        # Try finding in the same row/container
-        content_elem = soup.find('div', class_='intro mb5')
-    
-    content = content_elem.text.strip() if content_elem else "No content found"
-    
-    # Find the thumbnail for this article - look in the same parent container
-    thumbnail = parent.find('div', class_='thumbnail') if parent else None
-    if not thumbnail:
-        # Try to find all thumbnails and match by index
-        all_thumbnails = soup.find_all('div', class_='thumbnail')
-        if i < len(all_thumbnails):
-            thumbnail = all_thumbnails[i]
-    
-    # Extract webp image from thumbnail
-    image_url = None
-    if thumbnail and 'data-origin' in thumbnail.attrs:
-        img_url = thumbnail['data-origin']
-        if img_url.endswith('.webp'):
-            image_url = img_url
-    
-    # Extract date and time from waktu-posting div
-    waktu_posting = parent.find('div', class_='waktu-posting') if parent else None
-    if not waktu_posting:
-        # Try to find all waktu-posting divs and match by index
-        all_waktu = soup.find_all('div', class_='waktu-posting')
-        if i < len(all_waktu):
-            waktu_posting = all_waktu[i]
-    
-    published_date = None
-    if waktu_posting:
-        waktu_text = waktu_posting.get_text()
-        # Extract date/time from "Ditulis pada : 04 November 2025, 10:00:53"
-        match = re.search(r'Ditulis pada\s*:\s*(\d{1,2})\s+(\w+)\s+(\d{4}),\s*(\d{1,2}):(\d{2}):(\d{2})', waktu_text, re.IGNORECASE)
-        if match:
-            day, month_id, year, hour, minute, second = match.groups()
-            # Convert Indonesian month to English
-            month_id_lower = month_id.lower()
-            month_en = month_map.get(month_id_lower, month_id)
-            try:
-                # Parse the date string
-                date_str = f"{day} {month_en} {year} {hour}:{minute}:{second}"
-                published_date = datetime.strptime(date_str, "%d %B %Y %H:%M:%S")
-                # Add timezone info (UTC+7 for Indonesia/Asia/Jakarta)
-                jakarta_tz = timezone(timedelta(hours=7))
-                published_date = published_date.replace(tzinfo=jakarta_tz)
-            except ValueError:
-                published_date = None
-    
+
+    title = title_link.get_text(strip=True)
+    article_link = absolute_url(title_link.get('href', url))
+
+    intro_elem = kartu.find('p', class_='kartu__intro')
+    content = intro_elem.get_text(strip=True) if intro_elem else "No content found"
+
+    img = kartu.select_one('.kartu__media img') or kartu.find('img', class_='bb-thumb')
+    image_url = absolute_url(img.get('src')) if img and img.get('src') else None
+
+    meta_elem = kartu.find('p', class_='kartu__meta')
+    published_date = parse_published_date(meta_elem.get_text(' ', strip=True) if meta_elem else '')
+
     articles.append({
         'title': title,
         'link': article_link,
         'content': content,
         'image': image_url,
-        'published_date': published_date
+        'published_date': published_date,
     })
 
 # Sort articles by published_date (newest first), then take top 4
@@ -119,7 +110,7 @@ for article in articles:
     
     # Add image as enclosure (proper RSS format for media)
     if article['image']:
-        entry.enclosure(url=article['image'], length=0, type='image/webp')
+        entry.enclosure(url=article['image'], length=0, type=enclosure_type(article['image']))
 
 # Save the RSS feed
 with open('output.xml', 'wb') as f:
