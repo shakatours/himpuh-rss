@@ -6,20 +6,7 @@
     <description>A feed of Himpuh blog posts</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 11 Nov 2026 05:27:56 +0000</lastBuildDate>
-    <item>
-      <title>Sejumlah Usulan Indonesia Diterima Arab Saudi dalam MoU Haji 2027</title>
-      <link>https://himpuh.or.id/blog/detail/5230/sejumlah-usulan-indonesia-diterima-arab-saudi-dalam-mou-haji-2027</link>
-      <description>Sejumlah poin yang diajukan Indonesia masuk dalam kesepakatan persiapan penyelenggaraan haji 1448 H/2027 M bersama Arab Saudi. Menteri Haji dan Umrah Mochamad Irfan Yusuf menyebut penerimaan usulan tersebut menjadi hasil penting dari komunikasi kedua negara. Di sela pertemuan, Indonesia juga mendorong produk makanan dan perlengkapan jemaah lokal agar bisa menembus pasar Arab Saudi.</description>
-      <enclosure url="https://himpuh.or.id/api/publik/tampilan/asset/MQoxNzk1MDQ2NDAwCjE3OTQzNTUyMDAKMTc5NDM1OTg1M19KWGVBWWZaMzhBT3ptc2paeHNVT1dRZTV1eHVZd2hBcTZyTmtCeFNXLmpwZw.IAThKAlXeicGiucybAiuMpSVZUl6rFV1X-fx-HefMZ0" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 11 Nov 2026 09:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>105 Jemaah Umrah Terlantar, Kemenhaj Telusuri Dugaan Penyalahgunaan SISKOPATUH</title>
-      <link>https://himpuh.or.id/blog/detail/5231/105-jemaah-umrah-terlantar-kemenhaj-telusuri-dugaan-penyalahgunaan-siskopatuh</link>
-      <description>Kemenhaj menelusuri dugaan penyalahgunaan SISKOPATUH dalam kasus 105 jemaah umrah asal Pasaman Barat, Sumatera Barat, yang gagal berangkat ke Tanah Suci sesuai jadwal.</description>
-      <pubDate>Wed, 11 Nov 2026 10:00:00 +0700</pubDate>
-    </item>
+    <lastBuildDate>Wed, 11 Nov 2026 13:50:22 +0000</lastBuildDate>
     <item>
       <title>50 Persen Travel Umrah Tak Aktif, Kemenhaj Tahan Izin Baru</title>
       <link>https://himpuh.or.id/blog/detail/5232/50-persen-travel-umrah-tak-aktif-kemenhaj-tahan-izin-baru</link>
@@ -33,6 +20,20 @@
       <description>Sebanyak 9.281 peserta mengikuti seleksi Computer Assisted Test (CAT) Program MagangHub Kementerian Haji dan Umrah (Kemenhaj) Republik Indonesia.</description>
       <enclosure url="https://himpuh.or.id/api/publik/tampilan/asset/MQoxNzk1MDQ2NDAwCjE3OTQzNTUyMDAKMTc5NDM3MTk2Ml85SUFXZzBLUThrMFhvTXRpZFl2OXpJSldsYVE3eXI3UE0yNkR6NWRnLmpwZw.xJfzQENxMfzpEaN1NDliBlKtk3S_9rnsRMGUjgDy98E" length="0" type="image/jpeg"/>
       <pubDate>Wed, 11 Nov 2026 12:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>HIMPUH Jalin Kemitraan dengan Daleel Almaalem, Sasar Peningkatan Transportasi Haji Khusus</title>
+      <link>https://himpuh.or.id/blog/detail/5236/himpuh-jalin-kemitraan-dengan-daleel-almaalem-sasar-peningkatan-transportasi-haji-khusus</link>
+      <description>Biaya transportasi menjadi salah satu komponen yang perlu diperhitungkan penyelenggara ibadah haji khusus (PIHK) ketika menyiapkan layanan bagi jemaahnya di Arab Saudi. Terlebih, sebagian PIHK menginginkan satu armada bus yang secara khusus melayani rombongan mereka sejak tiba di Tanah Suci hingga kembali ke Indonesia, tanpa harus berganti operator selama penyelenggaraan haji.</description>
+      <enclosure url="https://himpuh.or.id/api/publik/tampilan/asset/MQoxNzk1MDQ2NDAwCjE3OTQzNTUyMDAKMTc5NDM3NDk4NV8ySU5vQkVLcjVmYnhVTWc3V01JQ2o5YnpJeVB3RUhqTDVmelFuTkNOLmpwZw.0GpvtIXE-8fm-eZr2lpteWQodJbkp30tGX-TuwBVCR4" length="0" type="image/jpeg"/>
+      <pubDate>Wed, 11 Nov 2026 12:30:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>Menhaj: Sejumlah Usulan Indonesia Diterima Arab Saudi dalam MoU Persiapan Haji 2027</title>
+      <link>https://himpuh.or.id/blog/detail/5238/menhaj-sejumlah-usulan-indonesia-diterima-arab-saudi-dalam-mou-persiapan-haji-2027</link>
+      <description>Menhaj RI, Mochamad Irfan Yusuf, menyampaikan bahwa sejumlah usulan Indonesia terkait penyelenggaraan ibadah haji 1448 H/2027 M telah diterima oleh Pemerintah Arab Saudi.</description>
+      <enclosure url="https://himpuh.or.id/api/publik/tampilan/asset/MQoxNzk1MDQ2NDAwCjE3OTQzNTUyMDAKMTc5NDM4MTQ3NF84TjVaV20wTG1xVUpMQUI2TmxTWWZNZGlvN3c4WXlIT3o3MHd3M3hwLmpwZw.cU-tzAnmzajqPZsKGpepSdAWXSlnDjdGaLoq8zbKI-w" length="0" type="image/jpeg"/>
+      <pubDate>Wed, 11 Nov 2026 16:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
