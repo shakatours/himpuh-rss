@@ -6,14 +6,7 @@
     <description>A feed of Himpuh blog posts</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 14 Nov 2026 05:40:51 +0000</lastBuildDate>
-    <item>
-      <title>Kemenhaj Minta Humas Daerah Sajikan Informasi yang Dibutuhkan Jemaah</title>
-      <link>https://himpuh.or.id/blog/detail/5260/kemenhaj-minta-humas-daerah-sajikan-informasi-yang-dibutuhkan-jemaah</link>
-      <description>Kemenhaj meminta jajaran humas di tingkat pusat dan daerah mengubah pola publikasi agar lebih berorientasi pada kebutuhan jemaah.</description>
-      <enclosure url="https://himpuh.or.id/api/publik/tampilan/asset/MQoxNzk1MzA1NjAwCjE3OTQ2MTQ0MDAKMTc5NDU3MDI3N19NRzRaTE5uOW1OTUlOVEUwMHpEcWpXamt0U2gweExLcVkzbUVSYXRhLmpwZw.7CZHXUgx1rmtjrfkWowZaAszWlHr0KcHz-y7SQWaQp4" length="0" type="image/jpeg"/>
-      <pubDate>Sat, 14 Nov 2026 06:00:00 +0700</pubDate>
-    </item>
+    <lastBuildDate>Sat, 14 Nov 2026 13:13:56 +0000</lastBuildDate>
     <item>
       <title>Kemenhaj Ubah Pola Publikasi, Satu Informasi Banyak Kanal</title>
       <link>https://himpuh.or.id/blog/detail/5261/kemenhaj-ubah-pola-publikasi-satu-informasi-banyak-kanal</link>
@@ -34,6 +27,13 @@
       <description>Kelompok Ibu Rumah Tangga (IRT) mendominasi daftar jemaah pelunasan haji reguler di Indonesia.</description>
       <enclosure url="https://himpuh.or.id/api/publik/tampilan/asset/MQoxNzk1MzA1NjAwCjE3OTQ2MTQ0MDAKMTc5NDYyNzUzNV90V0ZxOXFJemlvUFZXYlBzUnlxTGw1Ykl1a0dBajFvdW9Yall3cTUyLmpwZw.0FmHOSFc3XYHXrEMDfNMqLYrIoFTG77AayyPn8o0w1A" length="0" type="image/jpeg"/>
       <pubDate>Sat, 14 Nov 2026 10:40:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>Hukum Baru Bertahan Hidup</title>
+      <link>https://himpuh.or.id/blog/detail/5264/hukum-baru-bertahan-hidup</link>
+      <description>Sudah tak berlaku lagi hukum Survival of the Fittest – Yang Paling Kuat Yang Bertahan!!! Dalam era VUCA yang berdampak pada rapuhnya ekosistem bisnis, keunggulan tidak lagi semata-mata ditentukan oleh kekuatan ukuran perusahaan, kekuatan modal, atau dominasi pasar, melainkan oleh kemampuan organisasi membaca perubahan dan menyesuaikan diri secara cepat, Adaptif.</description>
+      <enclosure url="https://himpuh.or.id/api/publik/tampilan/asset/MQoxNzk1MzA1NjAwCjE3OTQ2MTQ0MDAKMTc5NDY0OTI0OF9YMUpUOGFvdkdYcGVNRjZyNXdJRHdrcEJuTXBWNVF5N1I1V2hiTUZSLmpwZw.qxJbXimhCg2-otNimQzGZoybAVK4iEaDNP2mG1TkGpk" length="0" type="image/jpeg"/>
+      <pubDate>Sat, 14 Nov 2026 16:40:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
