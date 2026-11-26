@@ -6,14 +6,7 @@
     <description>A feed of Himpuh blog posts</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 26 Nov 2026 07:36:49 +0000</lastBuildDate>
-    <item>
-      <title>Riyadh Air Resmi Buka Rute Jakarta-Riyadh, Tiket Mulai Rp4 Jutaan</title>
-      <link>https://himpuh.or.id/blog/detail/5380/riyadh-air-resmi-buka-rute-jakarta-riyadh-tiket-mulai-rp4-jutaan</link>
-      <description>Maskapai nasional baru Arab Saudi ini resmi mengoperasikan penerbangan langsung yang menghubungkan Jakarta dan Riyadh. Pada tahap awal, rute tersebut dilayani tiga kali sepekan menggunakan pesawat Boeing 787-9 Dreamliner. Tiket keberangkatan Desember 2026 terpantau mulai Rp 4 jutaan, dengan peluang peningkatan frekuensi hingga setiap hari.</description>
-      <enclosure url="https://himpuh.or.id/api/publik/tampilan/asset/MQoxNzk2MzQyNDAwCjE3OTU2NTEyMDAKMTc5NTY1MDQ5NV9HSkpCOEhINjJZcW1Jckd0eVlraFh1S0VvelhkWWp4cHdobFVwVnFBLmpwZw.VBbwIRbng7Se_uH_IijwSGXDl-7GfV1MwHdrAKTUI7g" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 26 Nov 2026 08:00:00 +0700</pubDate>
-    </item>
+    <lastBuildDate>Thu, 26 Nov 2026 21:10:21 +0000</lastBuildDate>
     <item>
       <title>RUU Keuangan Haji Didorong Atur Pemerataan Nilai Manfaat bagi 5,7 Juta Jemaah</title>
       <link>https://himpuh.or.id/blog/detail/5381/ruu-keuangan-haji-didorong-atur-pemerataan-nilai-manfaat-bagi-5-7-juta-jemaah</link>
@@ -34,6 +27,13 @@
       <description>Calon jemaah haji dapat mengetahui perkiraan tahun keberangkatan melalui pengecekan nomor porsi secara online di situs resmi Kemenhaj.</description>
       <enclosure url="https://himpuh.or.id/api/publik/tampilan/asset/MQoxNzk2MzQyNDAwCjE3OTU2NTEyMDAKMTc5NTY2MjMzMF9wMExDMUVZS2pJNHp5VGg0WWVKOXBBb0V2aHZBc3Rka0tvN2E5dHNBLmpwZw.bsrEOucbuuUuSQEcuUvCh7DOc0oGJi4PQsanAswdKH8" length="0" type="image/jpeg"/>
       <pubDate>Thu, 26 Nov 2026 15:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>Ini 7 Situs Warisan Dunia UNESCO Ikonik di Arab Saudi</title>
+      <link>https://himpuh.or.id/blog/detail/5389/ini-7-situs-warisan-dunia-unesco-ikonik-di-arab-saudi</link>
+      <description>Berikut tujuh situs Warisan Dunia UNESCO di Arab Saudi beserta keunikan nilai sejarah dan budayanya</description>
+      <enclosure url="https://himpuh.or.id/api/publik/tampilan/asset/MQoxNzk2MzQyNDAwCjE3OTU2NTEyMDAKMTc5NTY4MDQxOF9mZmZEMUx6eTE1Mjg4ckpIUFhqcWFuTzB3VlZ4ZE9KY1A2SnJMSjczLmpwZw.1yUn2lf_mZ0mtZoHuNAC1kZACroFeccaEGW6pf3bF74" length="0" type="image/jpeg"/>
+      <pubDate>Thu, 26 Nov 2026 16:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
